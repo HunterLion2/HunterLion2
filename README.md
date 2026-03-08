@@ -38,17 +38,16 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 </p>
 
----
-### 📊 GitHub Analytics
 
-[![HunterLion2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterLion2&show_icons=true&theme=radical&v=1)](https://github.com/HunterLion2)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterLion2&layout=compact&theme=radical&v=1)](https://github.com/HunterLion2)
+### 📊 GitHub Activity & Streak
+
+[![HunterLion2's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HunterLion2&theme=radical&hide_border=true)](https://github.com/HunterLion2)
 
 ---
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/çınar-özgürgil-38319a225/" target="_blank">
+  <a href="https://www.linkedin.com/in/çınar-özgürgil-776b37291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
