@@ -39,13 +39,10 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HunterLion2&show_icons=true&theme=radical" alt="HunterLion2's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterLion2&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+[![HunterLion2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterLion2&show_icons=true&theme=radical&v=1)](https://github.com/HunterLion2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterLion2&layout=compact&theme=radical&v=1)](https://github.com/HunterLion2)
 
 ---
 
