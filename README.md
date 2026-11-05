@@ -10,9 +10,9 @@ Dokuz Eylül Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi öğre
 - **Açık kaynak katkıları** — gerçek bir kod tabanında issue, branch, commit ve pull request pratiği.
 - **ML portföyü** — sentetik işlem verileriyle harcama sınıflandırması; sonucunu Kaggle notebook’u ve Hugging Face demosu olarak yayımlama.
 
-## Öne çıkan çalışma
+## Açık kaynak pratiği
 
-- [Life Kernel](https://github.com/HunterLion2/Life-Kernel) — Markdown tabanlı kişisel/proje bağlamını yapay zekâ istemcilerine güvenli ve denetlenebilir biçimde sunan, açık kaynak bir araç.
+- [Life Kernel fork’u](https://github.com/HunterLion2/Life-Kernel) — gerçek bir TypeScript/MCP kod tabanında branch, commit ve pull request akışını öğrenmek için kullandığım fork.
 
 ## Teknolojiler
 
