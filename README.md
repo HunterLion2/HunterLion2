@@ -1,26 +1,32 @@
 # Merhaba, ben Çınar Özgürgil 👋
 
-Dokuz Eylül Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi öğrencisiyim. Web uygulamaları, açık kaynak ve yapay zekâ destekli araçlar üzerinde çalışıyorum.
+Dokuz Eylül Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi öğrencisiyim. Web uygulamaları ve yapay zekâ destekli araçlar geliştiriyorum; planlı çalışmaya, düzenli öğrenmeye ve öğrendiklerimi uygulamaya önem veriyorum.
 
-Şu sıralar odağım; anlaşılır kullanıcı deneyimi olan uygulamalar, güvenli veri akışları ve küçük fikirleri çalışan ürünlere dönüştürmek.
+**Güncel odağım: TherapeiAİ ve LLM fine-tuning.** TherapeiAİ'nin arayüz ve AI entegrasyonu üzerinde çalışıyorum. Python, Hugging Face ve PEFT/LoRA ile yaptığım çalışmaları incelenebilir deneylere dönüştürüyorum; tamamlanan işler ile henüz ölçülmemiş sonuçları ayrı belgeliyorum.
 
-## Şu an üzerinde çalışıyorum
+## İnceleyebileceğiniz çalışmalar
 
-- **Kişisel finans takip uygulaması** — gelir/gider, yatırım dağılımı ve 3D yazıcı işi maliyetlerini tek yerde izleme.
-- **Açık kaynak katkıları** — gerçek bir kod tabanında issue, branch, commit ve pull request pratiği.
-- **ML portföyü** — sentetik işlem verileriyle harcama sınıflandırması; sonucunu Kaggle notebook’u ve Hugging Face demosu olarak yayımlama.
+| Çalışma | Ne gösteriyor? | Durum |
+| --- | --- | --- |
+| [TherapeiAİ — teknik vitrin](projects/therapeiai.md) | Katkım, arayüz/veri katmanı, model seçimi, deney yöntemi ve kalan işler | Kapalı kaynak arayüz prototipi; model entegrasyonu sürüyor |
+| [SmolLM3 Fine-tuning Lab](https://github.com/HunterLion2/smollm3-finetuning-lab) | LoRA eğitimi, ayrı test kümesi ve temel model/adaptör karşılaştırması | Deney altyapısı hazır; gerçek eğitim sonuçları henüz yayımlanmadı |
+| [Hotel Price Report System](https://github.com/HunterLion2/HotelPriceReportSystem) | PHP/PDO, raporlama, kullanıcı yetkileri, Composer ve cron | Kaynak açık; DB şeması ve uçtan uca kurulum kalan işler |
+| [Akış](https://github.com/HunterLion2/Personal-Expense-Tracking) | Kişisel finans arayüzü ve hesaplama mantığı | Prototip; otomatik banka aktarımı tamamlanmadı |
 
-## Açık kaynak pratiği
+## Birlikte çalışmak istediğim alanlar
 
-- [Life Kernel fork’u](https://github.com/HunterLion2/Life-Kernel) — gerçek bir TypeScript/MCP kod tabanında branch, commit ve pull request akışını öğrenmek için kullandığım fork.
+AI/LLM uygulamaları, backend ve veri odaklı web ürünleri geliştiren ekiplerde sorumluluk almak istiyorum. Öğrenmeye açığım; küçük ama somut görevlerle katkı verip düzenli geri bildirimle ilerlemeyi seviyorum. İzmir, İstanbul, Ankara ve uzaktan staj/junior fırsatlarıyla ilgileniyorum.
 
 ## Teknolojiler
 
-`JavaScript` · `TypeScript` · `React` · `Angular` · `Next.js` · `Node.js` · `PHP / Laravel` · `Python` · `C# / .NET` · `SQL` · `Docker`
+**Web:** PHP / Laravel · JavaScript / TypeScript · React / Next.js · Node.js · SQL / MySQL  
+**AI çalışmalarım:** Python · Hugging Face · RAG · LangChain / LangGraph · PEFT / LoRA  
+**Diğer deneyimler:** C# / .NET · Angular · Git · Docker
 
 ## Öğrenme yaklaşımım
 
-Öğrendiklerimi küçük denemelerde bırakmamaya çalışıyorum: her konuda bir proje, okunabilir README, anlamlı commit geçmişi ve mümkünse çalışan demo hedefliyorum.
+Her çalışma için açık bir amaç, çalıştırma adımları, anlamlı commit geçmişi ve mümkün olduğunda ölçülebilir sonuç hedefliyorum. Başarısız deneyleri de belgelemek öğrenme sürecimin bir parçası.
 
-- LinkedIn: [Çınar Özgürgil](https://www.linkedin.com/in/çınar-özgürgil-776b37291/)
-- E-posta: [cozgurgil@gmail.com](mailto:cozgurgil@gmail.com)
+[Açık kaynak pratiğim — Life Kernel fork'u](https://github.com/HunterLion2/Life-Kernel): bana ait özgün bir ürün değil; TypeScript/MCP kod tabanında katkı akışını öğrenmek için kullandığım fork.
+
+[LinkedIn](https://www.linkedin.com/in/çınar-özgürgil-776b37291/) · [E-posta](mailto:cozgurgil@gmail.com)
